@@ -12,7 +12,7 @@ public class QUBOProblem {
     private double optimalStateValue;
 
     //* Kod implementacji */
-
+    
  
     
 
@@ -54,3 +54,6 @@ public class QUBOProblem {
         }
     
 }
+
+
+// check https://quantumcomputing.stackexchange.com/questions/11943/what-is-an-example-of-a-simple-qubo-problem
